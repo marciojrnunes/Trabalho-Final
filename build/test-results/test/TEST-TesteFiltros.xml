@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TesteFiltros" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-06-08T20:44:00" hostname="ELENCHAVES" time="0.035">
+  <properties/>
+  <testcase name="testeTodos()" classname="TesteFiltros" time="0.024"/>
+  <testcase name="testeSemFiltro()" classname="TesteFiltros" time="0.002"/>
+  <testcase name="testeFiltroTextoECategoria()" classname="TesteFiltros" time="0.001"/>
+  <testcase name="testeFiltroTexto()" classname="TesteFiltros" time="0.001"/>
+  <testcase name="testeFiltroDataECategoria()" classname="TesteFiltros" time="0.001"/>
+  <testcase name="testeFiltroCategoria()" classname="TesteFiltros" time="0.001"/>
+  <testcase name="testeFiltroTextoEData()" classname="TesteFiltros" time="0.0"/>
+  <testcase name="testeFiltroData()" classname="TesteFiltros" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
